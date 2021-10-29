@@ -2,7 +2,6 @@ name: Specter
 version: 9.0.0
 author: Falkirks
 main: specter\Specter
-website: https://github.com/fernanACM
 api: [3.0.0]
 softdepend: ["iControlU"]
 commands:
